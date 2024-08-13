@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Frontend developer 
-- 👨‍💻 As an IT student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 I constantly learn and explore new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development.
 
 
